@@ -233,7 +233,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Voyage Booking",
+    title: "Voyage Booking App",
     description:
       "Designed and developed the Voyage Booking application UI using React JS, a tourist booking app that helps users to search for tourist locations and hotels or resorts for their stay. The app will get inputs from the user like place, no.of.days, dates and no.of.people to search and book hotels or resorts.",
     image:
