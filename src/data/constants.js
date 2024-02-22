@@ -217,7 +217,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/varniha/Quote-gen-react",
-    webapp: "https://655c3a9a89eb8e351046e742--coruscating-baklava-518c92.netlify.app/",
+    webapp: "https://quote-gen-react.vercel.app/",
   },
   {
     id: 0,
@@ -247,7 +247,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/varniha/Tourist-Booking-Website-UI",
-    webapp: "https://6544b64d90262872331f2d82--remarkable-axolotl-032819.netlify.app/",
+    webapp: "https://tourist-booking-website-ui.vercel.app/",
   },
   {
     id: 4,
@@ -284,6 +284,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/varniha/Authentication-MERN-stack",
     webapp: "",
+  },
+  {
+    id: 6,
+    title: "React Responsive Cart",
+    description:
+      "A dynamic frontend application using React to select and store items in a cart and display it in table format.",
+    image:
+      "https://github.com/varniha/React_task_F1_studioz/blob/main/Screenshot%202024-02-22%20103622.png?raw=true",
+    tags: ["Java Script", "HTML", "CSS", "React JS", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/varniha/React_task_F1_studioz",
+    webapp: "https://react-task-f1-studioz.vercel.app/",
   },
 ];
 
